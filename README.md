@@ -85,15 +85,6 @@ A comprehensive security vulnerability scanner for Python projects including Fla
   npx degit jackchain-ai/Skills/ai-agent-security .claude/skills/ai-agent-security                   
   \`\`\`   
 
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/sugarforever/agent-skills.git
-   ```
-
-2. Add the skills directory to your Claude Code configuration, or copy individual skills to your project's `.claude/skills/` directory.
-
 ## Creating New Skills
 
 To create a new skill:
